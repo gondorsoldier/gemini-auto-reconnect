@@ -9,7 +9,9 @@ Fixes the issue where Gemini's conversation history disappears and new messages 
 
 1.安装浏览器扩展 Tampermonkey (篡改猴)。
 
-2.点击此处安装脚本 (Click here to install the script)。
+2.点击此处（https://raw.githubusercontent.com/gondorsoldier/gemini-auto-reconnect/refs/heads/main/gemini-reconnect.user.js）安装脚本
+
+Click here（https://raw.githubusercontent.com/gondorsoldier/gemini-auto-reconnect/refs/heads/main/gemini-reconnect.user.js） to install the script
 
 3.刷新 Gemini 页面即可生效。
 
@@ -26,5 +28,5 @@ If this script helped you, feel free to support my work. Your contribution keeps
 
 支付宝 (Alipay)
 
-<img width="108" height="162" alt="1777907852259_edit_127499991417524" src="https://github.com/user-attachments/assets/62469128-b3ae-4c35-8072-85bda9763151" />
+<img width="150" height="212" alt="1777907852259_edit_127499991417524" src="https://github.com/user-attachments/assets/62469128-b3ae-4c35-8072-85bda9763151" />
 
