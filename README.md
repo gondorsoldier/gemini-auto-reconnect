@@ -21,4 +21,10 @@ If this script helped you, feel free to support my work. Your contribution keeps
 
 微信支付 (WeChat Pay)
 
+<img width="150" height="212" alt="mmexport1777905107714" src="https://github.com/user-attachments/assets/8fe053aa-6bc6-4292-af7d-3a4f16a468de" />
+
+
 支付宝 (Alipay)
+
+<img width="108" height="162" alt="1777907852259_edit_127499991417524" src="https://github.com/user-attachments/assets/62469128-b3ae-4c35-8072-85bda9763151" />
+
